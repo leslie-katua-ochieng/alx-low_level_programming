@@ -2,9 +2,9 @@
 /**
 *main - print the string into the put function
 *
-*Return: Always 0 (success)
+ *Return: Always 0 (success)
 */
-int main(void
+int main(void)
 {
 char c;
 int i;
