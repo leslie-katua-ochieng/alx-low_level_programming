@@ -1,9 +1,8 @@
 #include <unistd.h>
 /**
-*  *main - prints a quote "and that piece of art is beautiful"
-*   *followed with a new line, to standard error
+*  *main - Entry point
 *    *
-*
+* Return: Always 1 (Success)
 */
 int main(void)
 {
