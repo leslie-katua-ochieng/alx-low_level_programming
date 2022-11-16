@@ -3,4 +3,3 @@
 2. File name
 3. Function-like macro
 4. SUM
-5.manipulation memory of programs is the task
