@@ -1,6 +1,6 @@
 /*
  * File: 100-first.c
- * Auth: Abubakar Kadzo
+ * Auth: Leslie Ochieng
  */
 
 #include <stdio.h>
