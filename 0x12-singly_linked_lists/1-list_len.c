@@ -1,6 +1,6 @@
 /*
  * File: 1-list_len.c
- * Auth: Abubakar Kadzo
+ * Auth: Leslie Ochieng
  */
 
 #include "lists.h"
