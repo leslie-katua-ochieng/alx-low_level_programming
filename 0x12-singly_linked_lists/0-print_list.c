@@ -1,6 +1,6 @@
 /*
  * File: 0-print_list.c
- * Auth: Abubakar Kadzo
+ * Auth: Leslie Ochieng
  */
 
 #include "lists.h"
