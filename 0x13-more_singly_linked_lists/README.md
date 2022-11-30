@@ -1,4 +1,4 @@
-this is a project tthat covers about linked lists
+this is a project that covers about linked lists
 0. Print list
 1. List length
 2. Add node
